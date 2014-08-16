@@ -1,0 +1,7 @@
+{
+  "name": "facebook-login#gh-pages",
+  "private": true,
+  "dependencies": {
+    "facebook-login": "davidwittenbrink/facebook-login#master"
+  }
+}
